@@ -1,0 +1,3 @@
+myYTchannel: https://www.youtube.com/channel/UC2dMSz5bqT2B50qzHN4ob-Q
+walmart: walmart.com
+target: target.com
